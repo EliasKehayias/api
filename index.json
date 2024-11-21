@@ -3,7 +3,7 @@
         "firstName":"Elias Don",
         "lastName":"Kehayias",
         "favouriteHobby":"stealing old lady's legs",
-        "Criminal":"True",
+        "Criminal":true,
         "dreamCars":[
             {
                 "carName":"Mercedes",
@@ -13,7 +13,7 @@
             {
                 "carName":"Scooby Van",
                 "engineCapacity":"2.2 litre",
-                "model":"Childstealer 101"
+                "model":"2001"
             }
         ]
     },
@@ -21,7 +21,7 @@
         "firstName":"Martin",
         "lastName":"Garrix",
         "favouriteHobby":"Scratching Records",
-        "Criminal":"false",
+        "Criminal":false,
         "dreamCars":[
             {
                 "carName":"EcoBike3",
@@ -38,8 +38,8 @@
     {
         "firstName":"Juan",
         "lastName":"Gonzalez",
-        "favouriteHobby":"crossing the border",
-        "Criminal":"True",
+        "favouriteHobby":"Banjo",
+        "Criminal":true,
         "dreamCars":[
             {
                 "carName":"sizuki",
@@ -49,7 +49,7 @@
             {
                 "carName":"Tata",
                 "engineCapacity":"10litre",
-                "model":"Cocaine Transporter 1.3"
+                "model":" Transporter 1.3"
             }
         ]
     },
@@ -57,7 +57,7 @@
         "firstName":"Luke",
         "lastName":"Far",
         "favouriteHobby":"Seeing",
-        "Criminal":"False",
+        "Criminal":false,
         "dreamCars":[
             {
                 "carName":"Tesla",
