@@ -1,0 +1,74 @@
+[
+    {
+        "firstName":"Elias Don",
+        "lastName":"Kehayias",
+        "favouriteHobby":"stealing old lady's legs",
+        "Criminal":"True",
+        "dreamCars":[
+            {
+                "carName":"Mercedes",
+                "engineCapacity":"5.2 litre",
+                "model":"W123"
+            },
+            {
+                "carName":"Scooby Van",
+                "engineCapacity":"2.2 litre",
+                "model":"Childstealer 101"
+            }
+        ]
+    },
+    {
+        "firstName":"Martin",
+        "lastName":"Garrix",
+        "favouriteHobby":"Scratching Records",
+        "Criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"EcoBike3",
+                "engineCapacity":"200ml",
+                "model":"Eco101"
+            },
+            {
+                "carName":"Fiat",
+                "engineCapacity":"0.7 litre",
+                "model":"Light"
+            }
+        ]
+    },
+    {
+        "firstName":"Juan",
+        "lastName":"Gonzalez",
+        "favouriteHobby":"crossing the border",
+        "Criminal":"True",
+        "dreamCars":[
+            {
+                "carName":"sizuki",
+                "engineCapacity":"1L",
+                "model":"Dirst burst"
+            },
+            {
+                "carName":"Tata",
+                "engineCapacity":"10litre",
+                "model":"Cocaine Transporter 1.3"
+            }
+        ]
+    },
+    {
+        "firstName":"Luke",
+        "lastName":"Far",
+        "favouriteHobby":"Seeing",
+        "Criminal":"False",
+        "dreamCars":[
+            {
+                "carName":"Tesla",
+                "engineCapacity":"zero",
+                "model":"x"
+            },
+            {
+                "carName":"Golf",
+                "engineCapacity":"2 litre",
+                "model":"Speedbump scraper"
+            }
+        ]
+    }
+]
